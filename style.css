@@ -15,6 +15,13 @@ body {
     
   }
   
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* space between box, result, and guide */
+    text-align: center;
+}
 
 
 
@@ -86,6 +93,17 @@ body {
     margin-bottom: 08px; /* Adds space below the label */
     font-size: 20px;
     color: #fff; /* Ensure label text is visible */
+  }
+
+
+
+  .result{
+    color: white;
+  }
+
+  #weight-guide{
+    color: white;
+    
   }
 
   
