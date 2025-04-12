@@ -106,4 +106,14 @@ body {
     
   }
 
+  footer{
+    margin-bottom: 0px;
+  }
+  
+  footer img {
+    height: 40px;
+    margin: 15px;
+  }
+  
+
   
